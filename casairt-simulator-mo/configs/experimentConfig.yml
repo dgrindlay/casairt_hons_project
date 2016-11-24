@@ -1,0 +1,17 @@
+configuration:
+  schema: 1
+  morphology: 2
+
+simulation:
+  runs: 5
+  steps: 800
+
+ea_variables:
+  population: 150
+  generations: 100
+  archive: 50
+  add_node_probability: 0.25 #0.005
+  add_link_probability: 0.8 #0.005
+  remove_link_probability: 0.002
+  crossover_probability: 0.5
+  connection_density: 0.5

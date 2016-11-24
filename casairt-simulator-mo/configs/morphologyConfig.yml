@@ -1,0 +1,84 @@
+meta:
+  numMorph: 2
+m1:
+  meta:
+    numSensor: 8
+  s1:
+    type: ProximitySensor
+    bearing: 40.0
+    orientation: 0.0
+  s2:
+    type: ProximitySensor
+    bearing: -40.0
+    orientation: 0.0
+  s3:
+    type: ProximitySensor
+    bearing: 120.0
+    orientation: 0.0
+  s4:
+    type: ProximitySensor
+    bearing: -120.0
+    orientation: 0.0
+  s5:
+    type: UltrasonicSensor
+    bearing: 0.0
+    orientation: 0.0
+  s6:
+    type: ConstructionSensor
+    bearing: 0.0
+    orientation: 0.0
+  s7:
+    type: ColourRangedSensor
+    bearing: 0.0
+    orientation: 0.0
+  s8:
+    type: LowResCameraSensor
+    bearing: 0.0
+    orientation: 0.0
+m2:
+  meta:
+    numSensor: 11
+  s1:
+    type: ProximitySensor
+    bearing: 40.0
+    orientation: 0.0
+  s2:
+    type: ProximitySensor
+    bearing: -40.0
+    orientation: 0.0
+  s3:
+    type: ProximitySensor
+    bearing: 140.0
+    orientation: 0.0
+  s4:
+    type: ProximitySensor
+    bearing: -140.0
+    orientation: 0.0
+  s5:
+    type: ProximitySensor
+    bearing: 180.0
+    orientation: 0.0
+  s6:
+    type: UltrasonicSensor
+    bearing: 0.0
+    orientation: 0.0
+  s7:
+    type: UltrasonicSensor
+    bearing: 90.0
+    orientation: 0.0
+  s8:
+    type: UltrasonicSensor
+    bearing: -90.0
+    orientation: 0.0
+  s9:
+    type: ConstructionSensor
+    bearing: 0.0
+    orientation: 0.0
+  s10:
+    type: ColourRangedSensor
+    bearing: 15.0
+    orientation: 0.0
+  s11:
+    type: LowResCameraSensor
+    bearing: -15.0
+    orientation: 0.0
